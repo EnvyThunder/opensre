@@ -1,0 +1,7 @@
+Continous Integration is the process Testing code in an isolated environment whenever someone contributes. 
+
+Continious Deployment is the porcess of incorporating changes and additions in codebase whilst its server is simultaneously running .
+For CI , there exists tools like github actions which test the code before it is pushed into the repository to detect
+any anomalies in the code.
+For CD , there exists tools like Kubernetes , AWS , I guess
+
